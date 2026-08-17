@@ -44,3 +44,7 @@ Intermediate CSV files are generated automatically by Notebooks 01 and 02.
 ## Main result
 
 Several models perform very strongly. Bagging provides the strongest overall predictive profile, while the pruned decision tree is a particularly interpretable alternative. `FFMC`, `ISI`, and `FWI` consistently appear among the most influential predictors, although their strong correlations require cautious interpretation.
+
+## Project Note
+
+This project is a rework of a project originally completed during the Data Mining course at the Lebanese American University, Beirut, with additional improvements to the analysis, methodology, and presentation.
